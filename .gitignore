@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Large binary files
+sentiment_model.pkl
+tfidf_vectorizer.pkl
+IMDB Dataset.csv
+
+# OS files
+.DS_Store
